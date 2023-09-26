@@ -1,0 +1,16 @@
+C:\Users\7102a\source\repos\Words from text\Words from text\bin\Debug\Words from text.exe.config
+C:\Users\7102a\source\repos\Words from text\Words from text\bin\Debug\Words from text.exe
+C:\Users\7102a\source\repos\Words from text\Words from text\bin\Debug\Words from text.pdb
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.csproj.AssemblyReference.cache
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words_from_text.Form1.resources
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words_from_text.Properties.Resources.resources
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.csproj.GenerateResource.cache
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.csproj.CoreCompileInputs.cache
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.exe
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.pdb
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words_from_text.Working.resources
+C:\Users\7102a\source\repos\Words from text\Words from text\bin\Debug\Words from text.exe.manifest
+C:\Users\7102a\source\repos\Words from text\Words from text\bin\Debug\Words from text.application
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.TrustInfo.xml
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.exe.manifest
+C:\Users\7102a\source\repos\Words from text\Words from text\obj\Debug\Words from text.application
