@@ -77,6 +77,7 @@ namespace Words_from_text
             foreach (string word in WordsText)
             {
                 finalWord = new string((from c in word where char.IsWhiteSpace(c) || char.IsLetterOrDigit(c) select c).ToArray());
+                finalWord = finalWord.ToLower();
                 if (finalWord.Length >= 5 && finalWord.Length <= 30
                     && rnd.Next(0, 6) == 2
                     && !finalWord.Contains("\n")
